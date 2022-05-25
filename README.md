@@ -1,4 +1,4 @@
-# Projet MIPS - Jeu Puissance 4 (Connect 4)
+# MIPS Assembly Project - Connect 4 Game (Jeu Puissance 4)
 
 Projet en assembleur MIPS réalisé dans le cadre de l'UE "Architecture des ordinateurs" pour la L2S3 Informatique à l'UFR Mathématique et Informatique Strasbourg.
 
